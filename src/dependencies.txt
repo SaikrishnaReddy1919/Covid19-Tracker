@@ -1,0 +1,9 @@
+-> axios : For API requests.
+-> react-chartJs-2 : For making chartJs
+-> react-countup : For making animation while counting.
+-> classnames : A simple JavaScript utility for conditionally joining classNames together.
+
+--other info--
+->use style.module.css instead of style.css to avoid
+    availability of file to all over project. When you use 
+    style.module.css the file will only be avaolable to that folder only.
